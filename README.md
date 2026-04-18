@@ -36,4 +36,6 @@ Designed **35+ test cases** covering the end-to-end onboarding requirements for 
 ---
 
 ## 👨‍💻 Author
-**Muideen Oyeniyi** *Quality Assurance Engineer*
+**Muideen Oyeniyi** 
+*Quality Assurance Engineer*
+**08104334688**
