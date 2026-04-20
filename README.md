@@ -31,7 +31,7 @@ Designed **35+ test cases** covering the end-to-end onboarding requirements for 
 
 ## 🔗 Project Links
 * **Detailed QA Master Sheet:** [View Google Sheet](https://docs.google.com/spreadsheets/d/1hUz4bdMBMWazgXAcey99tLCAiXuofiA-b4t61QKWk_U/edit?usp=sharing)
-* **Loom Video Presentation:** [Link to your Loom Video Here]
+* **Loom Video Presentation:** [view the l;oom video here] (https://www.loom.com/share/f766eabf92f74c75a6eda2bc98c19932)
 
 ---
 
